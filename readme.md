@@ -8,7 +8,8 @@ gulpを使用した、HTMLファイルをカウントするスクリプトです
 
 1. `git clone https://github.com/arm-band/sha-naqba-imuru.git`
 2. `npm i -D` or `yarn`
-3. `npm start` or `gulp`
+3. copy html files and directories in `src` directory
+4. `npm start` or `gulp`
 
 ## Origin of name
 
