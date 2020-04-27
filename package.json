@@ -1,0 +1,25 @@
+{
+    "name": "sha-naqba-imuru",
+    "version": "0.1.0",
+    "description": "gulpを使用した、HTMLファイルをカウントするスクリプトです。",
+    "main": "gulpfile.js",
+    "scripts": {
+        "gulp": "gulp",
+        "start": "gulp"
+    },
+    "author": "Arm Band",
+    "license": "ISC",
+    "devDependencies": {
+        "browser-sync": "^2.26.7",
+        "gulp": "^4.0.2",
+        "gulp-notify": "^3.2.0",
+        "gulp-plumber": "^1.2.1",
+        "gulp-watch": "^5.0.1",
+        "require-dir": "^1.2.0"
+    },
+    "engines": {
+        "node": ">= 10.0.0",
+        "npm": ">= 4.0.0"
+    },
+    "prettier": {}
+}
