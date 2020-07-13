@@ -6,8 +6,9 @@ const sitemap = require('./sitemap');
 const browsersync = () => {
     _.browserSync({
         server: {
-            baseDir: dir.dist.html
+            baseDir: './'
         },
+        startPath: dir.dist.html,
         open: 'external',
         https: true
     });
