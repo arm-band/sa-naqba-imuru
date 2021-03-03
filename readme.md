@@ -1,8 +1,8 @@
-# Sha naqba imuru
+# 𒃻 𒅘𒁀 𒄿𒈬𒊒 (šá naq-ba i-mu-ru)
 
 ## Abstract
 
-gulpを使用した、HTMLファイルをカウントするスクリプトです。
+Gulp を使用した、HTMLファイルをカウントするスクリプトです。
 
 ## Usage
 

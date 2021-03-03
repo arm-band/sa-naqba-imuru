@@ -1,7 +1,7 @@
 {
-    "name": "sha-naqba-imuru",
+    "name": "sa-naqba-imuru",
     "version": "0.1.0",
-    "description": "gulpを使用した、HTMLファイルをカウントするスクリプトです。",
+    "description": "Gulp を使用した、HTMLファイルをカウントするスクリプトです。",
     "main": "gulpfile.js",
     "scripts": {
         "gulp": "gulp",
